@@ -1,3 +1,5 @@
+package Java_Examples;
+
 public class SystemOutPrintln {
     public static void main(String[] args) {
         //숫자를 출력할 수 있으며, 숫자를 출력할 때는 큰 따옴표로 묶지 않아도 된다.
